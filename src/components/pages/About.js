@@ -9,6 +9,18 @@ export default () => {
 				advanced state management.
 			</p>
 			<p className="text-secondary">Version 1.0.0</p>
+			<p className="text-secondary">
+				<a href="https://github.com/kleyu">
+					<i
+						className="fab fa-github"
+						style={{
+							fontSize: 48,
+							textDecoration: "none",
+							color: "black"
+						}}
+					/>
+				</a>
+			</p>
 		</div>
 	);
 };

@@ -1,3 +1,10 @@
+#   [deployed site](https://contactmanager.netlify.com/)
+
+master branch is using context api for state, redux-b will use redux.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
