@@ -6,7 +6,7 @@ Things I've learned when creating this project:
 
 - Using React.Fragment instead of div to NOT render a useless div to DOM.
 
-- Instead of messy and problematic state passsing through components, I've used a React Context API which utilizes an Provider and Consumer for Redux-like state management.
+- Instead of messy and little problematic state passsing through components, I've used a React Context API which utilizes an Provider and Consumer for Redux-like state management. Although it's absolutely not necessary for such an small app.
 
 - Implement Typechecking with React.PropTypes
 
