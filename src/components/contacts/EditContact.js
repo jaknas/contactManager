@@ -16,7 +16,6 @@ class EditContact extends Component {
     const res = await axios.get(
       `https://jsonplaceholder.typicode.com/users/${id}`
     );
-
     const contact = res.data;
 
     this.setState({
